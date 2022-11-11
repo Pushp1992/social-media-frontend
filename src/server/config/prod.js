@@ -1,6 +1,6 @@
 // production host
 const config = {
-    socialMediaServerHost: "http://localhost:5000",
+    socialMediaServerHost: "https://pushp1992.github.io",
  };
  
  module.exports = config;
